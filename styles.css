@@ -53,3 +53,7 @@ h1 {
 .word {
   color: green;
 }
+
+.container {
+  padding-bottom: 20px;
+}
