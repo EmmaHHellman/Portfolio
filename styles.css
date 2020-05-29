@@ -71,3 +71,7 @@ h1 {
 .container {
   padding-bottom: 20px;
 }
+
+.well ul li {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
