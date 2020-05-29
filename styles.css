@@ -75,3 +75,12 @@ h1 {
 .well ul li {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+blockquote {
+  font-style: italic;
+  font-weight: bold;
+}
+
+blockquote p {
+  font-size: 2rem; 
+}
