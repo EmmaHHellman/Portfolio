@@ -1,0 +1,50 @@
+#photo {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+  padding: 15px;
+}
+
+.info {
+  float: left;
+  width: 300px;
+}
+
+.info img {
+  width: 200px;
+  height: 200px;
+  border: 5px solid blue;
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-left: 25px;
+  padding: 10px;
+}
+
+.info p {
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.info h2 {
+  color: orange;
+  font-style: italic;
+}
+
+.list li a {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.well h2 {
+  font-weight: bold;
+  color: blue; 
+}
+
+.word {
+  color: green;
+}
