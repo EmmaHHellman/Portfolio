@@ -12,7 +12,7 @@ _The website details my work history, goals and favorite activities._
 
 * _Go to Github_
 * _Click on clone or download_
-* _Copy URL link_
+* _Copy URL link https://github.com/EmmaHHellman/portfolio_
 * _Enter URL link into address bar and navigate to site_
 
 ## Known Bugs
