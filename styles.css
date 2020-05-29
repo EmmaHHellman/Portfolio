@@ -47,6 +47,11 @@ h1 {
   font-weight: bold;
 }
 
+.list li {
+  font-family: 'Times New Roman';
+  font-size: 20px;
+}
+
 .well h2 {
   font-weight: bold;
   color: blue; 
