@@ -83,6 +83,7 @@ blockquote {
 
 blockquote p {
   font-size: 2rem; 
+  padding: 10px;
 }
 
 .bg-danger {
