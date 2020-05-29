@@ -5,6 +5,7 @@
   display: block;
   border: 5px solid blue;
   padding: 5px;
+  border-radius: 25px;
 }
 
 h1 {
