@@ -84,3 +84,7 @@ blockquote {
 blockquote p {
   font-size: 2rem; 
 }
+
+.bg-danger {
+  font-size: 25px;
+}
