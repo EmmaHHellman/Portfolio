@@ -40,6 +40,8 @@ h1 {
 .info h2 {
   color: orange;
   font-style: italic;
+  font-weight: bold;
+  text-align: center;
 }
 
 .list li a {
