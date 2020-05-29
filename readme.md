@@ -6,7 +6,8 @@
 
 ## Description
 
-_The website details my work history, goals and favorite activities._
+_The website details my work history, goals and favorite activities. It gives a complete picture of who I am and 
+where I want to be._
 
 ## Setup/Installation Requirements
 
