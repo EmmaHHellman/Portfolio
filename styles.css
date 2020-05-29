@@ -16,6 +16,7 @@ h1 {
 .info {
   float: left;
   width: 360px;
+  padding: 0 15px;
 }
 
 .info img {
