@@ -68,12 +68,17 @@ h1 {
   color: purple; 
 }
 
+.worded {
+  color: red;
+}
+
 .container {
   padding-bottom: 20px;
 }
 
 .well ul li {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
 }
 
 blockquote {
@@ -83,4 +88,9 @@ blockquote {
 
 blockquote p {
   font-size: 2rem; 
+  padding: 10px;
+}
+
+.bg-danger {
+  font-size: 25px;
 }
