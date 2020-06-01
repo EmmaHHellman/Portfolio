@@ -7,14 +7,12 @@
 ## Description
 
 _The website details my work history, goals and favorite activities. It gives a complete picture of who I am and 
-where I want to be._
+where I want to be. To view website go to https://emmahhellman.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
-* _Go to Github_
-* _Click on clone or download_
-* _Copy URL link https://github.com/EmmaHHellman/portfolio_
-* _Enter URL link into address bar and navigate to site_
+* _Clone this repository https://github.com/EmmaHHellman/portfolio.git_
+* _Open index file in browser_
 
 ## Known Bugs
 
